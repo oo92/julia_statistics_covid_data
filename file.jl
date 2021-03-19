@@ -1,2 +1,2 @@
 a = "Onur Ozbek"
-println(a)
+Print(a)

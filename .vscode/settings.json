@@ -1,0 +1,8 @@
+{
+    "[julia]": {
+
+        "editor.quickSuggestions": true,
+        "editor.wordSeparators": "`~#$%^&*()-=+[{]}\\|;:'\",.<>/?"
+    },
+    "julia.executablePath": "/home/onur/julia-1.5.4/bin/julia"
+}
