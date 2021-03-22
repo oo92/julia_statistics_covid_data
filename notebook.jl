@@ -19,6 +19,9 @@ begin
 	using Plots, PlutoUI, DelimitedFiles, Parquet, Arrow
 end
 
+# ╔═╡ b6a2aaa4-8902-11eb-1dd7-c9ba6907619e
+
+
 # ╔═╡ 12493182-861c-11eb-170f-794bd640d3f3
 begin
 	df = CSV.read("temp.csv", DataFrame)
@@ -69,6 +72,7 @@ end
 get_nation_stats("Algeria")
 
 # ╔═╡ Cell order:
+# ╠═b6a2aaa4-8902-11eb-1dd7-c9ba6907619e
 # ╠═d5eed996-861b-11eb-0795-1999587b65b1
 # ╠═12493182-861c-11eb-170f-794bd640d3f3
 # ╠═deb2d0ec-8699-11eb-2d31-6f3caeb706e5
